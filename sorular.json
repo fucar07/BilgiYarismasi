@@ -1,0 +1,770 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        50,
+        1
+    ],
+    "data": [
+        [
+            [
+                "İstiklâl Marşı’nın şairi kimdir?"
+            ],
+            [
+                "Türkiye Cumhuriyeti’nin kurucusu kimdir?"
+            ],
+            [
+                "Gençliğe Hitabe kime aittir?"
+            ],
+            [
+                "Azerbaycan’ın başkenti neresidir?"
+            ],
+            [
+                "Kazakistan’ın başkenti neresidir?"
+            ],
+            [
+                "Kırgızistan’ın başkenti neresidir?"
+            ],
+            [
+                "Özbekistan’ın başkenti neresidir?"
+            ],
+            [
+                "Türkmenistan’ın başkenti neresidir?"
+            ],
+            [
+                "Manas Destanı hangi topluluğa aittir?"
+            ],
+            [
+                "Dede Korkut Hikâyeleri hangi boy çevresinde geçer?"
+            ],
+            [
+                "Orhun Yazıtları hangi devlete aittir?"
+            ],
+            [
+                "Orhun Yazıtları hangi ülkede bulunmuştur?"
+            ],
+            [
+                "Yazıtlarda adı geçen kağan kimdir?"
+            ],
+            [
+                "Türk adını devlet adı kullanan ilk devlet hangisidir?"
+            ],
+            [
+                "Uygurlar hangi yaşam biçimiyle öne çıkmıştır?"
+            ],
+            [
+                "Kutadgu Bilig’in yazarı kimdir?"
+            ],
+            [
+                "Divânu Lügati’t-Türk’ün yazarı kimdir?"
+            ],
+            [
+                "Divânu Lügati’t-Türk’ün amacı nedir?"
+            ],
+            [
+                "Ahmet Yesevi hangi yönüyle tanınır?"
+            ],
+            [
+                "Ahmet Yesevi’nin eseri hangisidir?"
+            ],
+            [
+                "Ali Şir Nevai hangi alanda tanınır?"
+            ],
+            [
+                "Türk dünyasının geleneksel çalgısı hangisidir?"
+            ],
+            [
+                "Dombra hangi toplulukla özdeşleşmiştir?"
+            ],
+            [
+                "Kırgızlara ait çalgı hangisidir?"
+            ],
+            [
+                "Geleneksel çadır tipi konuta ne denir?"
+            ],
+            [
+                "Nevruz hangi mevsimde kutlanır?"
+            ],
+            [
+                "Nevruz neyi simgeler?"
+            ],
+            [
+                "Atın Türk kültüründeki önemi nedir?"
+            ],
+            [
+                "Orta Asya’da hangi iklim yaygındır?"
+            ],
+            [
+                "Semerkant hangi ülkededir?"
+            ],
+            [
+                "Türkistan şehri hangi ülkededir?"
+            ],
+            [
+                "Hazar Denizi’nin özelliği nedir?"
+            ],
+            [
+                "Aral Gölü hangi bölgededir?"
+            ],
+            [
+                "Amu Derya nedir?"
+            ],
+            [
+                "İpek Yolu’nun işlevi neydi?"
+            ],
+            [
+                "İpek Yolu üzerindeki şehir hangisidir?"
+            ],
+            [
+                "Türklerin tarih boyunca yaşadığı coğrafya hangisidir?"
+            ],
+            [
+                "Türk bayrağındaki semboller hangileridir?"
+            ],
+            [
+                "İstiklâl Marşı hangi kelimeyle başlar?"
+            ],
+            [
+                "Al sancak neyi ifade eder?"
+            ],
+            [
+                "“Damarlarındaki asil kan” sözü kime seslenir?"
+            ],
+            [
+                "Türk dünyasının ortak bağlarından biri nedir?"
+            ],
+            [
+                "Bilinen ilk Türk hükümdarlarından biri kimdir?"
+            ],
+            [
+                "Hükümdara verilen Türkçe unvan hangisidir?"
+            ],
+            [
+                "Fuzuli hangi alanda tanınır?"
+            ],
+            [
+                "Türkiye’nin başkenti neresidir?"
+            ],
+            [
+                "Azerbaycan’ın para birimi hangisidir?"
+            ],
+            [
+                "Göktürk Yazıtları’nın diğer adı nedir?"
+            ],
+            [
+                "Türk dünyasında ortak tarih bilincini güçlendiren unsur hangisidir?"
+            ],
+            [
+                "Türk dünyası neyi anlatır?"
+            ]
+        ],
+        [
+            [
+                "Mehmet Âkif Ersoy"
+            ],
+            [
+                "Mustafa Kemal Atatürk"
+            ],
+            [
+                "Mustafa Kemal Atatürk"
+            ],
+            [
+                "Bakü"
+            ],
+            [
+                "Astana"
+            ],
+            [
+                "Bişkek"
+            ],
+            [
+                "Taşkent"
+            ],
+            [
+                "Aşkabat"
+            ],
+            [
+                "Kırgızlar"
+            ],
+            [
+                "Oğuzlar"
+            ],
+            [
+                "Göktürkler"
+            ],
+            [
+                "Moğolistan"
+            ],
+            [
+                "Bilge Kağan"
+            ],
+            [
+                "Göktürkler"
+            ],
+            [
+                "Yerleşik yaşam"
+            ],
+            [
+                "Yusuf Has Hacip"
+            ],
+            [
+                "Kaşgarlı Mahmut"
+            ],
+            [
+                "Türkçeyi tanıtmak"
+            ],
+            [
+                "Türk-İslam düşünürü"
+            ],
+            [
+                "Divan-ı Hikmet"
+            ],
+            [
+                "Şair ve düşünür"
+            ],
+            [
+                "Dombra"
+            ],
+            [
+                "Kazaklar"
+            ],
+            [
+                "Komuz"
+            ],
+            [
+                "Yurt"
+            ],
+            [
+                "İlkbahar"
+            ],
+            [
+                "Baharın gelişi"
+            ],
+            [
+                "Ulaşım ve savaş"
+            ],
+            [
+                "Karasal iklim"
+            ],
+            [
+                "Özbekistan"
+            ],
+            [
+                "Kazakistan"
+            ],
+            [
+                "Dünyanın en büyük gölüdür"
+            ],
+            [
+                "Orta Asya"
+            ],
+            [
+                "Önemli bir nehir"
+            ],
+            [
+                "Ticaret ve kültürel etkileşim"
+            ],
+            [
+                "Buhara"
+            ],
+            [
+                "Orta Asya"
+            ],
+            [
+                "Ay ve yıldız"
+            ],
+            [
+                "Korkma"
+            ],
+            [
+                "Türk bayrağını"
+            ],
+            [
+                "Türk gençliğine"
+            ],
+            [
+                "Dil, tarih ve gelenekler"
+            ],
+            [
+                "Mete Han"
+            ],
+            [
+                "Kağan"
+            ],
+            [
+                "Edebiyat"
+            ],
+            [
+                "Ankara"
+            ],
+            [
+                "Manat"
+            ],
+            [
+                "Orhun Yazıtları"
+            ],
+            [
+                "Destanlar"
+            ],
+            [
+                "Türk halklarının kültürel coğrafyasını"
+            ]
+        ],
+        [
+            [
+                "Yahya Kemal"
+            ],
+            [
+                "İsmet İnönü"
+            ],
+            [
+                "Mehmet Âkif Ersoy"
+            ],
+            [
+                "Taşkent"
+            ],
+            [
+                "Almatı"
+            ],
+            [
+                "Aşkabat"
+            ],
+            [
+                "Bişkek"
+            ],
+            [
+                "Bakü"
+            ],
+            [
+                "Uygurlar"
+            ],
+            [
+                "Kıpçaklar"
+            ],
+            [
+                "Osmanlılar"
+            ],
+            [
+                "Anadolu"
+            ],
+            [
+                "Mete Han"
+            ],
+            [
+                "Hunlar"
+            ],
+            [
+                "Denizcilik"
+            ],
+            [
+                "Kaşgarlı Mahmut"
+            ],
+            [
+                "Yusuf Has Hacip"
+            ],
+            [
+                "Astronomi öğretmek"
+            ],
+            [
+                "Denizci"
+            ],
+            [
+                "Nutuk"
+            ],
+            [
+                "Komutan"
+            ],
+            [
+                "Piyano"
+            ],
+            [
+                "İspanyollar"
+            ],
+            [
+                "Bağlama"
+            ],
+            [
+                "Kervansaray"
+            ],
+            [
+                "Yaz"
+            ],
+            [
+                "Savaşın başlaması"
+            ],
+            [
+                "Sadece süs"
+            ],
+            [
+                "Muson"
+            ],
+            [
+                "Kazakistan"
+            ],
+            [
+                "Azerbaycan"
+            ],
+            [
+                "Okyanustur"
+            ],
+            [
+                "Batı Avrupa"
+            ],
+            [
+                "Bir dağ"
+            ],
+            [
+                "Sadece asker taşımak"
+            ],
+            [
+                "Londra"
+            ],
+            [
+                "Antarktika"
+            ],
+            [
+                "Güneş ve kartal"
+            ],
+            [
+                "Türküm"
+            ],
+            [
+                "Bir kaleyi"
+            ],
+            [
+                "Elçilere"
+            ],
+            [
+                "Aynı para"
+            ],
+            [
+                "Fatih Sultan Mehmet"
+            ],
+            [
+                "Konsül"
+            ],
+            [
+                "Matematik"
+            ],
+            [
+                "İstanbul"
+            ],
+            [
+                "Som"
+            ],
+            [
+                "Yenisey Destanı"
+            ],
+            [
+                "Okyanuslar"
+            ],
+            [
+                "Tek bir şehri"
+            ]
+        ],
+        [
+            [
+                "Namık Kemal"
+            ],
+            [
+                "Kazım Karabekir"
+            ],
+            [
+                "Ziya Gökalp"
+            ],
+            [
+                "Bişkek"
+            ],
+            [
+                "Bakü"
+            ],
+            [
+                "Semerkant"
+            ],
+            [
+                "Astana"
+            ],
+            [
+                "Almatı"
+            ],
+            [
+                "Türkmenler"
+            ],
+            [
+                "Karluklar"
+            ],
+            [
+                "Selçuklular"
+            ],
+            [
+                "Balkanlar"
+            ],
+            [
+                "Attila"
+            ],
+            [
+                "Uygurlar"
+            ],
+            [
+                "Kutup araştırmaları"
+            ],
+            [
+                "Ahmet Yesevi"
+            ],
+            [
+                "Yunus Emre"
+            ],
+            [
+                "Savaş planı hazırlamak"
+            ],
+            [
+                "Ressam"
+            ],
+            [
+                "Seyahatname"
+            ],
+            [
+                "Kaşif"
+            ],
+            [
+                "Keman"
+            ],
+            [
+                "Norveçliler"
+            ],
+            [
+                "Ud"
+            ],
+            [
+                "Köşk"
+            ],
+            [
+                "Sonbahar"
+            ],
+            [
+                "Hasat sonu"
+            ],
+            [
+                "Deniz ulaşımı"
+            ],
+            [
+                "Ekvatoral"
+            ],
+            [
+                "Türkiye"
+            ],
+            [
+                "Kırgızistan"
+            ],
+            [
+                "Akarsudur"
+            ],
+            [
+                "Güney Amerika"
+            ],
+            [
+                "Bir şehir"
+            ],
+            [
+                "Deniz taşımacılığı"
+            ],
+            [
+                "Madrid"
+            ],
+            [
+                "Grönland"
+            ],
+            [
+                "Hilal ve aslan"
+            ],
+            [
+                "Vatan"
+            ],
+            [
+                "Bir orduyu"
+            ],
+            [
+                "Öğretmenlere"
+            ],
+            [
+                "Aynı başkent"
+            ],
+            [
+                "Yavuz Sultan Selim"
+            ],
+            [
+                "Firavun"
+            ],
+            [
+                "Coğrafya"
+            ],
+            [
+                "Bursa"
+            ],
+            [
+                "Tenge"
+            ],
+            [
+                "Manas Kitabı"
+            ],
+            [
+                "Volkanlar"
+            ],
+            [
+                "Bir denizi"
+            ]
+        ],
+        [
+            [
+                "Tevfik Fikret"
+            ],
+            [
+                "Fevzi Çakmak"
+            ],
+            [
+                "Ali Şir Nevai"
+            ],
+            [
+                "Astana"
+            ],
+            [
+                "Duşanbe"
+            ],
+            [
+                "Bakü"
+            ],
+            [
+                "Tiran"
+            ],
+            [
+                "Türkistan"
+            ],
+            [
+                "Azerbaycanlılar"
+            ],
+            [
+                "Hazarlar"
+            ],
+            [
+                "Karahanlılar"
+            ],
+            [
+                "İran"
+            ],
+            [
+                "Alparslan"
+            ],
+            [
+                "Osmanlılar"
+            ],
+            [
+                "Sömürgecilik"
+            ],
+            [
+                "Ali Şir Nevai"
+            ],
+            [
+                "Fuzuli"
+            ],
+            [
+                "Tıp bilgisi vermek"
+            ],
+            [
+                "Mimar"
+            ],
+            [
+                "Safahat"
+            ],
+            [
+                "Astronot"
+            ],
+            [
+                "Saksafon"
+            ],
+            [
+                "Japonlar"
+            ],
+            [
+                "Kanun"
+            ],
+            [
+                "Kule"
+            ],
+            [
+                "Kış"
+            ],
+            [
+                "Kış hazırlığı"
+            ],
+            [
+                "Ev hayvanı olmaması"
+            ],
+            [
+                "Okyanusal"
+            ],
+            [
+                "Türkmenistan"
+            ],
+            [
+                "Türkiye"
+            ],
+            [
+                "Ada ülkesidir"
+            ],
+            [
+                "Kuzey Afrika"
+            ],
+            [
+                "Bir çöl"
+            ],
+            [
+                "Tarım yapmak"
+            ],
+            [
+                "Oslo"
+            ],
+            [
+                "Avustralya içleri"
+            ],
+            [
+                "Yıldırım ve yıldız"
+            ],
+            [
+                "Ey"
+            ],
+            [
+                "Bir nehri"
+            ],
+            [
+                "Sporculara"
+            ],
+            [
+                "Aynı iklim"
+            ],
+            [
+                "Kanuni Sultan Süleyman"
+            ],
+            [
+                "Şah"
+            ],
+            [
+                "Mühendislik"
+            ],
+            [
+                "İzmir"
+            ],
+            [
+                "Lari"
+            ],
+            [
+                "Tonyukukname"
+            ],
+            [
+                "Farklı iklimler"
+            ],
+            [
+                "Bir spor dalını"
+            ]
+        ]
+    ]
+}
