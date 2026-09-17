@@ -2,20 +2,11 @@
     "c2array": true,
     "size": [
         5,
-        50,
+        46,
         1
     ],
     "data": [
         [
-            [
-                "İstiklâl Marşı’nın şairi kimdir?"
-            ],
-            [
-                "Türkiye Cumhuriyeti’nin kurucusu kimdir?"
-            ],
-            [
-                "Gençliğe Hitabe kime aittir?"
-            ],
             [
                 "Azerbaycan’ın başkenti neresidir?"
             ],
@@ -122,9 +113,6 @@
                 "Türk bayrağındaki semboller hangileridir?"
             ],
             [
-                "İstiklâl Marşı hangi kelimeyle başlar?"
-            ],
-            [
                 "Al sancak neyi ifade eder?"
             ],
             [
@@ -159,15 +147,6 @@
             ]
         ],
         [
-            [
-                "Mehmet Âkif Ersoy"
-            ],
-            [
-                "Mustafa Kemal Atatürk"
-            ],
-            [
-                "Mustafa Kemal Atatürk"
-            ],
             [
                 "Bakü"
             ],
@@ -274,9 +253,6 @@
                 "Ay ve yıldız"
             ],
             [
-                "Korkma"
-            ],
-            [
                 "Türk bayrağını"
             ],
             [
@@ -311,15 +287,6 @@
             ]
         ],
         [
-            [
-                "Yahya Kemal"
-            ],
-            [
-                "İsmet İnönü"
-            ],
-            [
-                "Mehmet Âkif Ersoy"
-            ],
             [
                 "Taşkent"
             ],
@@ -426,9 +393,6 @@
                 "Güneş ve kartal"
             ],
             [
-                "Türküm"
-            ],
-            [
                 "Bir kaleyi"
             ],
             [
@@ -463,15 +427,6 @@
             ]
         ],
         [
-            [
-                "Namık Kemal"
-            ],
-            [
-                "Kazım Karabekir"
-            ],
-            [
-                "Ziya Gökalp"
-            ],
             [
                 "Bişkek"
             ],
@@ -578,9 +533,6 @@
                 "Hilal ve aslan"
             ],
             [
-                "Vatan"
-            ],
-            [
                 "Bir orduyu"
             ],
             [
@@ -615,15 +567,6 @@
             ]
         ],
         [
-            [
-                "Tevfik Fikret"
-            ],
-            [
-                "Fevzi Çakmak"
-            ],
-            [
-                "Ali Şir Nevai"
-            ],
             [
                 "Astana"
             ],
@@ -728,9 +671,6 @@
             ],
             [
                 "Yıldırım ve yıldız"
-            ],
-            [
-                "Ey"
             ],
             [
                 "Bir nehri"
